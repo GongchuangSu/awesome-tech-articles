@@ -22,6 +22,7 @@
 ### Javascript
 
 ### Jquery
+- [Jquery中 .bind() .live() .delegate() 和 .on() 之间的区别](https://segmentfault.com/a/1190000010435530)
 
 ### Web application
 - [前端组件化框架之路（民工精髓V）](https://github.com/xufei/blog/issues/19)
