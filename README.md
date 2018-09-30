@@ -20,3 +20,5 @@
 
 ## Outside of technology
 1. [这几年的脚印（徐宥）](https://blog.youxu.info/2006/10/08/%E8%BF%99%E5%87%A0%E5%B9%B4%E7%9A%84%E8%84%9A%E5%8D%B0/)
+2. [大龄程序员肉翻记录【一】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7508399.html)
+3. [大龄程序员肉翻记录【二】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7509819.html)
