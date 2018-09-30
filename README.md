@@ -18,6 +18,17 @@
 
 ## Docker
 
+## Front-End
+### Javascript
+
+### Jquery
+
+### Web application
+- [前端组件化框架之路（民工精髓V）](https://github.com/xufei/blog/issues/19)
+- [Web应用组件化的权衡（民工精髓V）](https://github.com/xufei/blog/issues/22)
+- [Web应用的组件化（一）——基本思路（民工精髓V）](https://github.com/xufei/blog/issues/6)
+- [Web应用的组件化（二）——管控平台（民工精髓V）](https://github.com/xufei/blog/issues/7)
+
 ## Outside of technology
 - [这几年的脚印（徐宥）](https://blog.youxu.info/2006/10/08/%E8%BF%99%E5%87%A0%E5%B9%B4%E7%9A%84%E8%84%9A%E5%8D%B0/)
 - [4 年前端狗，2 年 CTO（Scott）](http://www.imooc.com/article/12703)
