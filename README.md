@@ -5,6 +5,8 @@
 ## Java
 - [从命名风格等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-1/index.html)
 - [从代码处理等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-2/index.html)
+### 单点登录
+- [八幅漫画理解使用JSON Web Token设计单点登录系统（John Wu）](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
 
 ## JVM
 - [怎样分析 JAVA 的 Thread Dumps](https://segmentfault.com/a/1190000000615690)
