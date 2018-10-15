@@ -5,6 +5,9 @@
 ## Java
 - [从命名风格等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-1/index.html)
 - [从代码处理等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-2/index.html)
+### 并发
+- [还在疑惑并发和并行？（laike9m）](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
+
 ### 单点登录
 - [八幅漫画理解使用JSON Web Token设计单点登录系统（John Wu）](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
 - [JSON Web Token - 在Web应用间安全地传递信息（John Wu）](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
