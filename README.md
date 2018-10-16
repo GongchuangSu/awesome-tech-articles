@@ -28,6 +28,9 @@
 ## Docker
 - [Docker 入门教程（阮一峰）](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 
+## Continuous Integration
+- [持续集成是什么？（阮一峰）](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
+
 ## Front-End
 ### Javascript
 
