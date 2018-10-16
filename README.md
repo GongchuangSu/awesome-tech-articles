@@ -48,6 +48,9 @@
 - [互联网协议入门（二）（阮一峰）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
 - [理解OAuth 2.0（阮一峰）](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 
+## Regular Expression
+- [最全的常用正则表达式大全（ZXIN）](https://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
+
 ## Git
 - [开源许可证教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/10/open-source-license-tutorial.html)
 
