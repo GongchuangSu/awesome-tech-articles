@@ -48,6 +48,9 @@
 - [互联网协议入门（二）（阮一峰）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
 - [理解OAuth 2.0（阮一峰）](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 
+## Git
+- [开源许可证教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/10/open-source-license-tutorial.html)
+
 ## Outside of technology
 - [这几年的脚印（徐宥）](https://blog.youxu.info/2006/10/08/%E8%BF%99%E5%87%A0%E5%B9%B4%E7%9A%84%E8%84%9A%E5%8D%B0/)
 - [4 年前端狗，2 年 CTO（Scott）](http://www.imooc.com/article/12703)
