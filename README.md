@@ -54,6 +54,7 @@
 - [互联网协议入门（二）（阮一峰）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
 - [理解OAuth 2.0（阮一峰）](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 - [HTTPS协议图解](https://tls.ulfheim.net/)
+- [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
 
 ## Regular Expression
 - [最全的常用正则表达式大全（ZXIN）](https://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
