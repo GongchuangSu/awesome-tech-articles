@@ -40,6 +40,8 @@
 
 ## Front-End
 ### Javascript
+- [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes)
+- [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 
 ### Jquery
 - [Jquery中 .bind() .live() .delegate() 和 .on() 之间的区别](https://segmentfault.com/a/1190000010435530)
