@@ -68,6 +68,7 @@
 
 ## Git
 - [开源许可证教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/10/open-source-license-tutorial.html)
+- [How does git work internally](https://medium.com/@shalithasuranga/how-does-git-work-internally-7c36dcb1f2cf)
 
 ## Data Visualization
 - [数据可视化入门教程](https://www.yuque.com/mo-college/beginner-tutorial)
