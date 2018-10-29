@@ -15,6 +15,7 @@
 ## JVM
 - [怎样分析 JAVA 的 Thread Dumps](https://segmentfault.com/a/1190000000615690)
 - [使用 VisualVM 进行性能分析及调优](https://www.ibm.com/developerworks/cn/java/j-lo-visualvm/)
+- [如何使用jstack分析线程状态](http://www.importnew.com/23601.html)
 
 ## Data Structures and Algorithms
 - [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
