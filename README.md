@@ -16,6 +16,11 @@
 - [怎样分析 JAVA 的 Thread Dumps](https://segmentfault.com/a/1190000000615690)
 - [使用 VisualVM 进行性能分析及调优](https://www.ibm.com/developerworks/cn/java/j-lo-visualvm/)
 - [如何使用jstack分析线程状态](http://www.importnew.com/23601.html)
+- JVM性能调优监控工具专题（Josh_Persistence）
+  - [JVM性能调优监控工具专题一：JVM自带性能调优工具（jps,jstack,jmap,jhat,jstat,hprof)](http://josh-persistence.iteye.com/blog/2161848)
+  - [JVM性能调优监控工具专题二：VisualVM基本篇之监控JVM内存，CPU，线程](http://josh-persistence.iteye.com/blog/2233445)
+  - [JVM性能调优监控工具专题二：VisualVM基本篇之远程监控，监控Tomcat](http://josh-persistence.iteye.com/blog/2233459)
+  - [JVM性能调优监控工具专题三：VisualVM基本篇之快照分析、监控GC、Eclipse集成](http://josh-persistence.iteye.com/blog/2233787)
 
 ## Data Structures and Algorithms
 - [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
