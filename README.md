@@ -10,7 +10,7 @@
 
 * [JVM](#JVM)
 
-* [Data Structures and Algorithms](#Data Structures and Algorithms)
+* [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 
 * [Spring](#Spring)
 
