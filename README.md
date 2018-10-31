@@ -24,6 +24,7 @@
 * [Docker](#Docker)
 
 * [Continuous Integration](#Continuous-Integration)
+  * [Jenkins](#Jenkins)
 
 * [Front-End](#Front-End)
   * [Javascript](#Javascript)
@@ -90,6 +91,8 @@
 
 ## Continuous Integration
 - [持续集成是什么？（阮一峰）](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
+### Jenkins
+- [GitLab 自动触发 Jenkins 构建](https://www.wolfcstech.com/2018/03/26/gitlab_trigger_jenkins_build/)
 
 ## Front-End
 ### Javascript
