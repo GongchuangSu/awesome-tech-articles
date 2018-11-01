@@ -78,6 +78,7 @@
 - [hibernate缓存机制详细分析](http://www.cnblogs.com/xiaoluo501395377/p/3377604.html)
 
 ## Mysql
+- [MySQL慢查询分析mysqldumpslow（kimi）](http://kimi.it/410.html)
 
 ## Linux
 - [Linux的五个查找命令（阮一峰）](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
