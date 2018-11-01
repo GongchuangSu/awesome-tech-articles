@@ -81,6 +81,7 @@
 - [MySQL慢查询分析mysqldumpslow（kimi）](http://kimi.it/410.html)
 
 ## Linux
+- [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [Linux的五个查找命令（阮一峰）](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
 
 ### Vim
