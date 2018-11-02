@@ -34,6 +34,7 @@
   * [Web application](#Web-application)
 
 * [Network Protocol](#Network-Protocol)
+  * [WebSocket](#WebSocket)
 
 * [Regular Expression](#Regular-Expression)
 
@@ -130,6 +131,9 @@
 - [DHCP 协议如何工作](https://www.benburwell.com/posts/how-does-dhcp-work/)
 - [SSH原理与运用（一）：远程登录（阮一峰）](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
 - [图解正向代理、反向代理、透明代理](http://blog.51cto.com/z00w00/1031287)
+
+### WebSocket
+- [WebSocket 教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
 
 ## Regular Expression
 - [最全的常用正则表达式大全（ZXIN）](https://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
