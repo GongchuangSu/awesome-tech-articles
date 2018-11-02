@@ -108,6 +108,7 @@
 ### Jquery
 - [Jquery中 .bind() .live() .delegate() 和 .on() 之间的区别](https://segmentfault.com/a/1190000010435530)
 - [jQuery之jsonp跨域请求](https://www.cnblogs.com/chiangchou/p/jsonp.html)
+- [四种常见的 POST 提交数据方式（Jerry Qu）](https://imququ.com/post/four-ways-to-post-data-in-http.html)
 
 ### Web application
 - [前端组件化框架之路（民工精髓V）](https://github.com/xufei/blog/issues/19)
