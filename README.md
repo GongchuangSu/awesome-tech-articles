@@ -21,6 +21,8 @@
 * [Linux](#Linux)
   * [Vim](#Vim)
 
+* [Nginx](#Nginx)
+
 * [Docker](#Docker)
 
 * [Continuous Integration](#Continuous-Integration)
@@ -87,6 +89,9 @@
 ### Vim
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#)
 - [简明 VIM 练级攻略](https://coolshell.cn/articles/5426.html)
+
+## Nginx
+- [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 
 ## Docker
 - [Docker 入门教程（阮一峰）](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
