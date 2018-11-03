@@ -25,6 +25,9 @@
 
 * [Docker](#Docker)
 
+* [Message queue](#Message-queue)
+  * [Kafka](#Kafka)
+
 * [Continuous Integration](#Continuous-Integration)
   * [Jenkins](#Jenkins)
 
@@ -96,6 +99,11 @@
 
 ## Docker
 - [Docker 入门教程（阮一峰）](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+
+## Message queue
+- [浅谈消息队列及常见的消息中间件](https://juejin.im/post/5b41fe36e51d45191252e79e)
+### Kafka
+- [Kafka快速入门](https://colobu.com/2014/08/06/kafka-quickstart/)
 
 ## Continuous Integration
 - [持续集成是什么？（阮一峰）](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
