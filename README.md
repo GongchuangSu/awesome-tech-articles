@@ -45,6 +45,8 @@
 
 * [Data Visualization](#Data-Visualization)
 
+* [TensorFlow](* TensorFlow)
+
 * [System Software](#System-Software)
 
 * [Outside of technology](#Outside-of-technology)
@@ -152,6 +154,9 @@
 
 ## Data Visualization
 - [数据可视化入门教程](https://www.yuque.com/mo-college/beginner-tutorial)
+
+## TensorFlow
+- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
 
 ## System Software
 - [Writing system software: code comments](http://antirez.com/news/124)
