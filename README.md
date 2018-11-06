@@ -25,6 +25,8 @@
 
 * [Docker](#Docker)
 
+* [Tomcat](#Tomcat)
+
 * [Message queue](#Message-queue)
   * [Kafka](#Kafka)
 
@@ -45,7 +47,7 @@
 
 * [Data Visualization](#Data-Visualization)
 
-* [TensorFlow](* TensorFlow)
+* [TensorFlow](#TensorFlow)
 
 * [System Software](#System-Software)
 
@@ -101,6 +103,9 @@
 
 ## Docker
 - [Docker 入门教程（阮一峰）](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+
+## Tomcat 
+- [Tomcat中JVM内存溢出及合理配置](https://my.oschina.net/xianggao/blog/83823)
 
 ## Message queue
 - [浅谈消息队列及常见的消息中间件](https://juejin.im/post/5b41fe36e51d45191252e79e)
