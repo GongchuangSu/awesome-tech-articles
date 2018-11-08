@@ -20,6 +20,7 @@
 
 * [Linux](#Linux)
   * [Vim](#Vim)
+  * [Shell](#Shell)
 
 * [Nginx](#Nginx)
 
@@ -100,6 +101,9 @@
 ### Vim
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#)
 - [简明 VIM 练级攻略](https://coolshell.cn/articles/5426.html)
+
+### Shell
+- [How to write practical shell scripts](https://likegeeks.com/write-shell-script/)
 
 ## Nginx
 - [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
