@@ -154,6 +154,7 @@
 - [SSH原理与运用（一）：远程登录（阮一峰）](http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html)
 - [图解正向代理、反向代理、透明代理](http://blog.51cto.com/z00w00/1031287)
 - [一分钟实现内网穿透（ngrok服务器搭建）](https://blog.csdn.net/zhangguo5/article/details/77848658)
+- [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 
 ### WebSocket
 - [WebSocket 教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
