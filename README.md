@@ -161,6 +161,7 @@
 - [WebSocket 教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
 
 ## Regular Expression
+- [正则表达式30分钟入门教程](https://www.barretlee.com/tools/reg/)
 - [最全的常用正则表达式大全（ZXIN）](https://www.cnblogs.com/zxin/archive/2013/01/26/2877765.html)
 
 ## Git
