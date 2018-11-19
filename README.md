@@ -107,6 +107,7 @@
 
 ## Nginx
 - [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
+- [什么是负载均衡](https://mp.weixin.qq.com/s/xvozZjmn-CvmQMAEAyDc3w)
 
 ## Docker
 - [Docker 入门教程（阮一峰）](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
