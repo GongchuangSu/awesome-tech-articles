@@ -77,6 +77,8 @@
   - [JVM性能调优监控工具专题二：VisualVM基本篇之监控JVM内存，CPU，线程](http://josh-persistence.iteye.com/blog/2233445)
   - [JVM性能调优监控工具专题二：VisualVM基本篇之远程监控，监控Tomcat](http://josh-persistence.iteye.com/blog/2233459)
   - [JVM性能调优监控工具专题三：VisualVM基本篇之快照分析、监控GC、Eclipse集成](http://josh-persistence.iteye.com/blog/2233787)
+- JVM系列（纯洁的微笑）
+  - [(1)java类的加载机制](http://www.ityouknow.com/jvm/2017/08/19/class-loading-principle.html)
 
 ## Data Structures and Algorithms
 - [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
