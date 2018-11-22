@@ -78,7 +78,8 @@
   - [JVM性能调优监控工具专题二：VisualVM基本篇之远程监控，监控Tomcat](http://josh-persistence.iteye.com/blog/2233459)
   - [JVM性能调优监控工具专题三：VisualVM基本篇之快照分析、监控GC、Eclipse集成](http://josh-persistence.iteye.com/blog/2233787)
 - JVM系列（纯洁的微笑）
-  - [(1)java类的加载机制](http://www.ityouknow.com/jvm/2017/08/19/class-loading-principle.html)
+  - [（1）java类的加载机制](http://www.ityouknow.com/jvm/2017/08/19/class-loading-principle.html)
+  - [（2）JVM内存结构](http://www.ityouknow.com/jvm/2017/08/25/jvm-memory-structure.html)
 - Become a Java GC Expert（Sangmin Lee）
   - [（1）Understanding Java Garbage Collection](https://www.cubrid.org/blog/understanding-java-garbage-collection/)
   - [（2）How to Monitor Java Garbage Collection ](https://www.cubrid.org/blog/how-to-monitor-java-garbage-collection/)
