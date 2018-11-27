@@ -81,6 +81,7 @@
   - [（1）java类的加载机制](http://www.ityouknow.com/jvm/2017/08/19/class-loading-principle.html)
   - [（2）JVM内存结构](http://www.ityouknow.com/jvm/2017/08/25/jvm-memory-structure.html)
   - [（3）GC算法 垃圾收集器](http://www.ityouknow.com/jvm/2017/08/29/GC-garbage-collection.html)
+  - [（4）jvm调优-命令篇](http://www.ityouknow.com/jvm/2017/09/03/jvm-command.html)
 - Become a Java GC Expert（Sangmin Lee）
   - [（1）Understanding Java Garbage Collection](https://www.cubrid.org/blog/understanding-java-garbage-collection/)
   - [（2）How to Monitor Java Garbage Collection ](https://www.cubrid.org/blog/how-to-monitor-java-garbage-collection/)
