@@ -57,6 +57,8 @@
 ## Java
 - [从命名风格等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-1/index.html)
 - [从代码处理等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-2/index.html)
+- [Java 编程要点之并发（Concurrency）详解](https://waylau.com/essential-java-concurrency/#)
+
 ### 并发
 - [还在疑惑并发和并行？（laike9m）](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
 
