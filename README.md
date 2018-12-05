@@ -95,6 +95,7 @@
 - [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
 - [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
+- [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
  
 ## Spring
 - [Spring-aop 全面解析（从应用到原理）](https://juejin.im/post/591d8c8ba22b9d00585007dd)
