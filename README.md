@@ -92,6 +92,7 @@
   
 
 ## Data Structures and Algorithms
+- [Design patterns implemented in Java](https://java-design-patterns.com/)
 - [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
 - [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
