@@ -110,6 +110,7 @@
 ## Mysql
 - [MySQL慢查询分析mysqldumpslow（kimi）](http://kimi.it/410.html)
 - [送给DBA：把这个转给你的开发，对接工作不再吐血（陈芳志）](https://dbaplus.cn/news-11-2316-1.html)
+- [MySQL 性能优化技巧](https://juejin.im/post/59d83f1651882545eb54fc7e)
 
 ## Linux
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
