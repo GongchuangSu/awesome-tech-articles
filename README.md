@@ -14,9 +14,9 @@
 
 * [Spring](#Spring)
 
-* [Hibernate](#Hibernate)
-
-* [Mysql](#Mysql)
+* [Database](#Database)
+  * [Hibernate](#Hibernate)
+  * [Mysql](#Mysql)
 
 * [Linux](#Linux)
   * [Vim](#Vim)
@@ -103,14 +103,15 @@
 - [IoC-spring 的灵魂](https://juejin.im/post/591d8c8ba22b9d00585007dd)
 - [中小型互联网公司微服务实践](http://www.ityouknow.com/springcloud/2017/10/19/micro-service-practice.html)
 
-## Hibernate
+## Database
+### Hibernate
 - [深入理解hibernate的三种状态](http://www.cnblogs.com/xiaoluo501395377/p/3380270.html)
 - [hibernate缓存机制详细分析](http://www.cnblogs.com/xiaoluo501395377/p/3377604.html)
 
-## Mysql
+### Mysql
 - [MySQL慢查询分析mysqldumpslow（kimi）](http://kimi.it/410.html)
 - [送给DBA：把这个转给你的开发，对接工作不再吐血（陈芳志）](https://dbaplus.cn/news-11-2316-1.html)
-- MySQL 性能优化技巧[【原文】](https://juejin.im/post/59d83f1651882545eb54fc7e)[【PDF】](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Database/Mysql/MySQL%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7.pdf)
+- [MySQL 性能优化技巧](https://juejin.im/post/59d83f1651882545eb54fc7e)[【PDF】](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Database/Mysql/MySQL%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7.pdf)
 
 ## Linux
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
