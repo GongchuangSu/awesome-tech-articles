@@ -186,6 +186,7 @@
 - [图解正向代理、反向代理、透明代理](http://blog.51cto.com/z00w00/1031287)
 - [一分钟实现内网穿透（ngrok服务器搭建）](https://blog.csdn.net/zhangguo5/article/details/77848658)
 - [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
+- [DNS 原理入门（阮一峰）](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 
 ### WebSocket
 - [WebSocket 教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
