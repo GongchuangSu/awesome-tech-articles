@@ -119,6 +119,7 @@
 - [Linux的五个查找命令（阮一峰）](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
 - [awk 入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)
 - [30 Examples for Awk Command in Text Processing](https://likegeeks.com/awk-command/)
+- [处理Apache日志的Bash脚本（阮一峰）](http://www.ruanyifeng.com/blog/2012/01/a_bash_script_of_apache_log_analysis.html)
 
 ### Vim
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#)
