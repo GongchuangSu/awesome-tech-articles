@@ -21,6 +21,7 @@
 * [Linux](#Linux)
   * [Vim](#Vim)
   * [Shell](#Shell)
+  * [Bash](#Bash)
 
 * [Nginx](#Nginx)
 
@@ -119,7 +120,6 @@
 - [Linux的五个查找命令（阮一峰）](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
 - [awk 入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)
 - [30 Examples for Awk Command in Text Processing](https://likegeeks.com/awk-command/)
-- [处理Apache日志的Bash脚本（阮一峰）](http://www.ruanyifeng.com/blog/2012/01/a_bash_script_of_apache_log_analysis.html)
 
 ### Vim
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#)
@@ -127,6 +127,10 @@
 
 ### Shell
 - [How to write practical shell scripts](https://likegeeks.com/write-shell-script/)
+
+### Bash
+- [处理Apache日志的Bash脚本（阮一峰）](http://www.ruanyifeng.com/blog/2012/01/a_bash_script_of_apache_log_analysis.html)
+- [Linux bash总结(一) 基础部分（wangkuiwu）](http://wangkuiwu.github.io/2011/09/01/shell/)
 
 ## Nginx
 - [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
