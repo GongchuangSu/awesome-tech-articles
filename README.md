@@ -6,6 +6,7 @@
 * [Java](#Java)
   * [并发](#并发)
   * [I/O](#I/O)
+  * [异常](#异常)
   * [单点登录](#单点登录)
 
 * [JVM](#JVM)
@@ -65,6 +66,9 @@
 
 ### I/O
 - [Java中导入、导出Excel](https://www.cnblogs.com/jerehedu/p/4343509.html)
+
+### 异常
+- [Java异常(一) Java异常简介及其架构（wangkuiwu）](http://wangkuiwu.github.io/2012/04/14/exception/)
 
 ### 单点登录
 - [八幅漫画理解使用JSON Web Token设计单点登录系统（John Wu）](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
