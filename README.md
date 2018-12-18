@@ -70,6 +70,7 @@
 ### 异常
 - [Java异常(一) Java异常简介及其架构（wangkuiwu）](http://wangkuiwu.github.io/2012/04/14/exception/)
 - [Java异常(二) 《Effective Java》中关于异常处理的几条建议（wangkuiwu）](http://wangkuiwu.github.io/2012/04/15/exception/)
+- [Java异常(三) 《Java Puzzles》中关于异常的几个谜题（wangkuiwu）](http://wangkuiwu.github.io/2012/04/16/exception/)
 
 ### 单点登录
 - [八幅漫画理解使用JSON Web Token设计单点登录系统（John Wu）](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
