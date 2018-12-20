@@ -67,6 +67,7 @@
 
 ### 多线程
 - [Java多线程系列--“基础篇”01之 基本概念（wangkuiwu）](http://wangkuiwu.github.io/2012/08/01/threads-basic/)
+- [Java多线程系列--“基础篇”02之 常用的实现多线程的两种方式（wangkuiwu）](http://wangkuiwu.github.io/2012/08/02/threads-basic/)
 
 ### I/O
 - [Java中导入、导出Excel](https://www.cnblogs.com/jerehedu/p/4343509.html)
