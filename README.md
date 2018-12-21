@@ -191,6 +191,7 @@
 - [Web应用组件化的权衡（民工精髓V）](https://github.com/xufei/blog/issues/22)
 - [Web应用的组件化（一）——基本思路（民工精髓V）](https://github.com/xufei/blog/issues/6)
 - [Web应用的组件化（二）——管控平台（民工精髓V）](https://github.com/xufei/blog/issues/7)
+- [一种SPA（单页面应用）架构（livoras）](https://github.com/livoras/blog/issues/3)
 
 ## Network Protocol
 - [互联网协议入门（一）（阮一峰）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
