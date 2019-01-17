@@ -141,7 +141,8 @@
 - [How to write practical shell scripts](https://likegeeks.com/write-shell-script/)
 
 ### Bash
-- [Bash Guide for Beginners（Machtelt Garrels）](http://www.tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf)
+- [Bash Guide for Beginners（Machtelt Garrels）](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Linux/Bash%20Beginners%20Guide.pdf)
+- [A User's Guide for GNU Awk（Arnold D. Robbins）](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Linux/A%20User's%20Guide%20for%20GNU%20Awk.pdf)
 - [处理Apache日志的Bash脚本（阮一峰）](http://www.ruanyifeng.com/blog/2012/01/a_bash_script_of_apache_log_analysis.html)
 - [Linux bash总结(一) 基础部分（wangkuiwu）](http://wangkuiwu.github.io/2011/09/01/shell/)
 - [Linux bash总结(二) 高级部分（wangkuiwu）](http://wangkuiwu.github.io/2011/09/02/shell/)
