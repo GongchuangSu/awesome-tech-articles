@@ -19,6 +19,7 @@
 * [Database](#Database)
   * [Hibernate](#Hibernate)
   * [Mysql](#Mysql)
+  * [QueryDSL](#QueryDSL)
 
 * [Linux](#Linux)
   * [Vim](#Vim)
@@ -125,6 +126,9 @@
 - [送给DBA：把这个转给你的开发，对接工作不再吐血（陈芳志）](https://dbaplus.cn/news-11-2316-1.html)
 - [MySQL 性能优化技巧（月光中的污点）](https://www.extlight.com/2017/10/07/MySQL-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/)[【PDF】](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Database/Mysql/MySQL%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7.pdf)
 - [MySQL 实现主从复制（月光中的污点）](https://www.extlight.com/2018/03/12/MySQL-%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/)[【PDF】](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Database/Mysql/MySQL%20%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.pdf)
+
+### QueryDSL
+- [QueryDSL 与 JPA 的配合（屈定）](https://zhuanlan.zhihu.com/p/24778422?refer=dreawer)
 
 ## Linux
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
