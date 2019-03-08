@@ -36,11 +36,11 @@
 * [Message queue](#Message-queue)
   * [Kafka](#Kafka)
 
-* Netty(#Netty)
+* [Netty](#Netty)
 
-* Ehcache(#Ehcache)
+* [Ehcache](#Ehcache)
 
-* Redis(#Redis)
+* [Redis](#Redis)
 
 * [Continuous Integration](#Continuous-Integration)
   * [Jenkins](#Jenkins)
