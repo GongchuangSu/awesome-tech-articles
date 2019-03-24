@@ -177,6 +177,8 @@
 
 ## Tomcat 
 - [Tomcat中JVM内存溢出及合理配置](https://my.oschina.net/xianggao/blog/83823)
+- [详解Tomcat配置文件server.xml](http://www.cnblogs.com/kismetv/p/7228274.html)
+- [详解Tomcat的连接数与线程池](http://www.cnblogs.com/kismetv/p/7806063.html)
 
 ## Message queue
 - [浅谈消息队列及常见的消息中间件](https://juejin.im/post/5b41fe36e51d45191252e79e)
