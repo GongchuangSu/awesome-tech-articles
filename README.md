@@ -148,6 +148,7 @@
 - [awk 入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)
 - [30 Examples for Awk Command in Text Processing](https://likegeeks.com/awk-command/)
 - [前后端同学必会的Linux基础命令](https://www.imooc.com/article/266441)
+- [理解inode（阮一峰）](http://www.ruanyifeng.com/blog/2011/12/inode.html)
 
 ### Vim
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#)
