@@ -263,3 +263,4 @@
 - [4 年前端狗，2 年 CTO（Scott）](http://www.imooc.com/article/12703)
 - [大龄程序员肉翻记录【一】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7508399.html)
 - [大龄程序员肉翻记录【二】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7509819.html)
+- [写给开发者的谷歌技术面试终极通关指南](https://www.infoq.cn/article/tl34RPwesHzhQfC0_Vid)
