@@ -66,6 +66,7 @@
 * [Outside of technology](#Outside-of-technology)
 
 ## Java
+- [Java 开发手册](/Others/Java%20huashan.pdf)
 - [从命名风格等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-1/index.html)
 - [从代码处理等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-2/index.html)
 - [Java 编程要点之并发（Concurrency）详解](https://waylau.com/essential-java-concurrency/#)
@@ -264,3 +265,4 @@
 - [大龄程序员肉翻记录【一】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7508399.html)
 - [大龄程序员肉翻记录【二】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7509819.html)
 - [写给开发者的谷歌技术面试终极通关指南](https://www.infoq.cn/article/tl34RPwesHzhQfC0_Vid)
+- [不止代码](/Others/Codelife.pdf)
