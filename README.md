@@ -66,7 +66,7 @@
 * [Outside of technology](#Outside-of-technology)
 
 ## Java
-- [Java 开发手册](/Others/Java%20huashan.pdf)
+- [Java 开发手册](https://alitech-private.oss-cn-beijing.aliyuncs.com/1560932768000/Java%20huashan.pdf?Expires=1560958286&OSSAccessKeyId=LTAIqKGWQyF6Vd3W&Signature=mwgNXHSytBr8sCWb0CDbA73iwmw%3D&nsukey=zBH%2FMF6577nG2aFWxrQekcY1BwKsN6%2FvtrqAqXx2YaRtJ%2B22RBmR1LtqFuOhDqoovOf8%2FXtBnTTc4ZfdJkCEwhW1rbglRindiU8RKUWov%2FDV8chRqrB%2F%2F5Afb5edqm4SPaSAj4iak%2F5qhjRz7xU7x9dgI5MnwR%2FQaBaEm5zz5gSC8OBGQdrPv4WVG6NyjO4rgA14T3SKnh2c%2FZ4vNMypTg%3D%3D)[【PDF】](/Others/Java%20huashan.pdf)
 - [从命名风格等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-1/index.html)
 - [从代码处理等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-2/index.html)
 - [Java 编程要点之并发（Concurrency）详解](https://waylau.com/essential-java-concurrency/#)
@@ -265,4 +265,4 @@
 - [大龄程序员肉翻记录【一】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7508399.html)
 - [大龄程序员肉翻记录【二】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7509819.html)
 - [写给开发者的谷歌技术面试终极通关指南](https://www.infoq.cn/article/tl34RPwesHzhQfC0_Vid)
-- [不止代码](/Others/Codelife.pdf)
+- [不止代码](https://alitech-private.oss-cn-beijing.aliyuncs.com/1530517140411/Codelife.pdf?Expires=1560959532&OSSAccessKeyId=LTAIqKGWQyF6Vd3W&Signature=gdxO5C6BVwxFFBh9H9Leodk0bLU%3D)[【PDF】](/Others/Codelife.pdf)
