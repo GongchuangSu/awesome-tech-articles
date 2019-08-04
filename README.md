@@ -72,6 +72,7 @@
 - [Java 编程要点之并发（Concurrency）详解](https://waylau.com/essential-java-concurrency/#)
 
 ### 并发
+- [Java理论与实践：正确使用Volatile变量]
 - [还在疑惑并发和并行？（laike9m）](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
 
 ### 多线程
