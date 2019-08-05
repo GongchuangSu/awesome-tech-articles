@@ -169,6 +169,9 @@
 ## Nginx
 - [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 - [什么是负载均衡](https://mp.weixin.qq.com/s/xvozZjmn-CvmQMAEAyDc3w)
+- Nginx配置跨域请求
+  - [Nginx配置跨域请求](https://segmentfault.com/a/1190000012550346)
+  - [Nginx解决跨域](http://www.nginx.cn/4592.html)
 
 ## Docker
 - [Docker — 从入门到实践](https://www.yuque.com/grasilife/docker)
