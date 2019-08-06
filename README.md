@@ -272,3 +272,4 @@
 - [大龄程序员肉翻记录【二】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7509819.html)
 - [写给开发者的谷歌技术面试终极通关指南](https://www.infoq.cn/article/tl34RPwesHzhQfC0_Vid)
 - [不止代码](https://alitech-private.oss-cn-beijing.aliyuncs.com/1530517140411/Codelife.pdf?Expires=1560959532&OSSAccessKeyId=LTAIqKGWQyF6Vd3W&Signature=gdxO5C6BVwxFFBh9H9Leodk0bLU%3D)[【PDF】](/Others/Codelife.pdf)
+- [How to Use the Feynman Technique to Learn Faster (With Examples)](https://collegeinfogeek.com/feynman-technique/)
