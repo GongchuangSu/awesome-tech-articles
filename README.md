@@ -147,6 +147,7 @@
 ## Linux
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [Linux的五个查找命令（阮一峰）](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
+- [Linux Find Command – Everything You Need to Know](https://www.putorius.net/linux-find-command.html)
 - [awk 入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)
 - [30 Examples for Awk Command in Text Processing](https://likegeeks.com/awk-command/)
 - [前后端同学必会的Linux基础命令](https://www.imooc.com/article/266441)
