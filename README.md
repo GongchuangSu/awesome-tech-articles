@@ -121,12 +121,14 @@
 - [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
- 
+
 ## Spring
 - [Spring-aop 全面解析（从应用到原理）](https://juejin.im/post/591d8c8ba22b9d00585007dd)
 - [IoC-spring 的灵魂](https://juejin.im/post/591d8c8ba22b9d00585007dd)
 - [中小型互联网公司微服务实践](http://www.ityouknow.com/springcloud/2017/10/19/micro-service-practice.html)
 - [Spring中获取request的几种方法，及其线程安全性分析](https://www.cnblogs.com/kismetv/p/8757260.html)
+- [Spring Interceptor vs Filter 拦截器和过滤器区别](http://einverne.github.io/post/2017/08/spring-interceptor-vs-filter.html)
+- [Spring MVC 应用处理 CORS](http://einverne.github.io/post/2017/09/spring-with-cors.html)
 
 ## Database
 - [SQL与索引优化合集（58沈剑）](https://mp.weixin.qq.com/s/3xkLTe7r388lRq-SBQllXw)
@@ -265,6 +267,10 @@
 ## System Software
 - [Writing system software: code comments](http://antirez.com/news/124)
 - [如何降低软件的复杂性？（阮一峰）](http://www.ruanyifeng.com/blog/2018/09/complexity.html)
+
+## 云计算
+
+- 阿里巴巴云原生实践十五讲【[PDF](./Others/阿里巴巴云原生实践十五讲.pdf)】
 
 ## Outside of technology
 - [这几年的脚印（徐宥）](https://blog.youxu.info/2006/10/08/%E8%BF%99%E5%87%A0%E5%B9%B4%E7%9A%84%E8%84%9A%E5%8D%B0/)
