@@ -195,6 +195,7 @@
 ## Message queue
 - [浅谈消息队列及常见的消息中间件](https://juejin.im/post/5b41fe36e51d45191252e79e)
 ### Kafka
+- [Kafka中文文档](http://kafka.apachecn.org/)
 - [Kafka快速入门](https://colobu.com/2014/08/06/kafka-quickstart/)
 
 ## Netty
