@@ -154,6 +154,7 @@
 - [30 Examples for Awk Command in Text Processing](https://likegeeks.com/awk-command/)
 - [前后端同学必会的Linux基础命令](https://www.imooc.com/article/266441)
 - [理解inode（阮一峰）](http://www.ruanyifeng.com/blog/2011/12/inode.html)
+- Linux性能分析工具汇总合集（[原文](http://rdc.hundsun.com/portal/article/731.htm)、[微信](https://mp.weixin.qq.com/s/ALCbjkk29SOoWP_zS_y91A)）
 
 ### Vim
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#)
