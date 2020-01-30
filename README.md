@@ -131,7 +131,7 @@
 - [Spring MVC 应用处理 CORS](http://einverne.github.io/post/2017/09/spring-with-cors.html)
 
 ### 经典书籍
-- [Expert One On One J2EE Development Without EJB](./JAVA/Spring/Expert One On One J2EE Development Without EJB.pdf)
+- [Expert One On One J2EE Development Without EJB](./JAVA/Spring/Expert%20One%20On%20One%20J2EE%20Development%20Without%20EJB.pdf)
 
 ## Database
 - [SQL与索引优化合集（58沈剑）](https://mp.weixin.qq.com/s/3xkLTe7r388lRq-SBQllXw)
