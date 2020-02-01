@@ -283,6 +283,7 @@
 
 ## 微服务
 - [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611?do=login&spm=5176.12901015.0.i12901015.43ea525cSsiTVp)
+- [微服务架构技术栈选型手册](https://www.infoq.cn/article/micro-service-technology-stack/)【[PDF](./JAVA/Microservice/微服务架构技术栈选型手册.pdf)】
 
 ## Outside of technology
 - [这几年的脚印（徐宥）](https://blog.youxu.info/2006/10/08/%E8%BF%99%E5%87%A0%E5%B9%B4%E7%9A%84%E8%84%9A%E5%8D%B0/)
