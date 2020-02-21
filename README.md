@@ -279,6 +279,7 @@
 - [如何降低软件的复杂性？（阮一峰）](http://www.ruanyifeng.com/blog/2018/09/complexity.html)
 
 ## 云计算
+- [云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative)
 - 阿里巴巴云原生实践十五讲【[PDF](./Others/阿里巴巴云原生实践十五讲.pdf)】
 
 ## 微服务
