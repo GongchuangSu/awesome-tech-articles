@@ -193,6 +193,7 @@
 
 ## Redis
 - [Redis使用手册](http://redisguide.com/)
+- [Redis命令参考](http://redisdoc.com/)
 
 ## Continuous Integration
 - [持续集成是什么？（阮一峰）](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
