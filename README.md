@@ -5,6 +5,7 @@
 # Content
 - [Awesome Technical Articles ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-technical-articles-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
 - [Content](#content)
+  - [计算机基础](#%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%9f%ba%e7%a1%80)
   - [Java](#java)
     - [并发](#%e5%b9%b6%e5%8f%91)
     - [多线程](#%e5%a4%9a%e7%ba%bf%e7%a8%8b)
@@ -50,7 +51,11 @@
   - [微服务](#%e5%be%ae%e6%9c%8d%e5%8a%a1)
   - [Outside of technology](#outside-of-technology)
 
+## 计算机基础
+- [原码、反码、补码的产生、应用以及优缺点](./计算机基础/原码、反码、补码的产生、应用以及优缺点.pdf)
+
 ## Java
+
 - [Java 开发手册](https://alitech-private.oss-cn-beijing.aliyuncs.com/1560932768000/Java%20huashan.pdf?Expires=1560958286&OSSAccessKeyId=LTAIqKGWQyF6Vd3W&Signature=mwgNXHSytBr8sCWb0CDbA73iwmw%3D&nsukey=zBH%2FMF6577nG2aFWxrQekcY1BwKsN6%2FvtrqAqXx2YaRtJ%2B22RBmR1LtqFuOhDqoovOf8%2FXtBnTTc4ZfdJkCEwhW1rbglRindiU8RKUWov%2FDV8chRqrB%2F%2F5Afb5edqm4SPaSAj4iak%2F5qhjRz7xU7x9dgI5MnwR%2FQaBaEm5zz5gSC8OBGQdrPv4WVG6NyjO4rgA14T3SKnh2c%2FZ4vNMypTg%3D%3D)[【PDF】](/Others/Java%20huashan.pdf)
 - [从命名风格等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-1/index.html)
 - [从代码处理等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-2/index.html)
@@ -275,6 +280,7 @@
 - [微服务架构技术栈选型手册](https://www.infoq.cn/article/micro-service-technology-stack/)【[PDF](./JAVA/Microservice/微服务架构技术栈选型手册.pdf)】
 
 ## Outside of technology
+
 - [这几年的脚印（徐宥）](https://blog.youxu.info/2006/10/08/%E8%BF%99%E5%87%A0%E5%B9%B4%E7%9A%84%E8%84%9A%E5%8D%B0/)
 - [4 年前端狗，2 年 CTO（Scott）](http://www.imooc.com/article/12703)
 - [大龄程序员肉翻记录【一】（JavaNerd）](http://www.cnblogs.com/javanerd/p/7508399.html)
