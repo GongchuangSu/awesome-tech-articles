@@ -119,6 +119,7 @@
 - [Spring中获取request的几种方法，及其线程安全性分析](https://www.cnblogs.com/kismetv/p/8757260.html)
 - [Spring Interceptor vs Filter 拦截器和过滤器区别](http://einverne.github.io/post/2017/08/spring-interceptor-vs-filter.html)
 - [Spring MVC 应用处理 CORS](http://einverne.github.io/post/2017/09/spring-with-cors.html)
+- [Spring 中实现动态数据源](https://ketao1989.github.io/2015/01/12/Spring-Dynamic-Data-Source-Guide/)
 
 ### 经典书籍
 - [Expert One On One J2EE Development Without EJB](./JAVA/Spring/Expert%20One%20On%20One%20J2EE%20Development%20Without%20EJB.pdf)
