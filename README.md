@@ -18,6 +18,7 @@
   - [Spring](#spring)
     - [经典书籍](#%e7%bb%8f%e5%85%b8%e4%b9%a6%e7%b1%8d)
   - [Database](#database)
+    - [数据库事务](#%e6%95%b0%e6%8d%ae%e5%ba%93%e4%ba%8b%e5%8a%a1)
     - [Hibernate](#hibernate)
     - [Mysql](#mysql)
     - [QueryDSL](#querydsl)
@@ -49,6 +50,7 @@
   - [云计算](#%e4%ba%91%e8%ae%a1%e7%ae%97)
     - [云原生](#%e4%ba%91%e5%8e%9f%e7%94%9f)
   - [微服务](#%e5%be%ae%e6%9c%8d%e5%8a%a1)
+  - [分布式系统](#%e5%88%86%e5%b8%83%e5%bc%8f%e7%b3%bb%e7%bb%9f)
   - [Outside of technology](#outside-of-technology)
 
 ## 计算机基础
@@ -126,6 +128,17 @@
 
 ## Database
 - [SQL与索引优化合集（58沈剑）](https://mp.weixin.qq.com/s/3xkLTe7r388lRq-SBQllXw)
+
+### 数据库事务
+- [数据库的读现象浅析](http://www.hollischuang.com/archives/900)
+- [深入分析事务的隔离级别](http://www.hollischuang.com/archives/943)
+- [数据库事务隔离级别和锁实现机制](https://www.iteye.com/blog/comedsh-698733)
+- [MySQL中的行级锁,表级锁,页级锁](http://www.hollischuang.com/archives/914)
+- [MySQL表级锁与行级锁](http://linux.it.net.cn/m/view.php?aid=11089)
+- [Spring的事务管理机制](http://www.hollischuang.com/archives/1489)
+- [JTA 深度历险 - 原理与实现](https://www.ibm.com/developerworks/cn/java/j-lo-jta/)
+- [Java中的事务——JDBC事务和JTA事务](http://www.hollischuang.com/archives/1658)
+- [事务隔离](https://zh.wikipedia.org/wiki/%E4%BA%8B%E5%8B%99%E9%9A%94%E9%9B%A2)
 
 ### Hibernate
 - [深入理解hibernate的三种状态](http://www.cnblogs.com/xiaoluo501395377/p/3380270.html)
@@ -279,6 +292,11 @@
 ## 微服务
 - [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611?do=login&spm=5176.12901015.0.i12901015.43ea525cSsiTVp)
 - [微服务架构技术栈选型手册](https://www.infoq.cn/article/micro-service-technology-stack/)【[PDF](./JAVA/Microservice/微服务架构技术栈选型手册.pdf)】
+
+## 分布式系统
+- [初识分布式系统](http://www.hollischuang.com/archives/655)
+- [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
+- [关于分布式事务、两阶段提交、一阶段提交、Best Efforts 1PC模式和事务补偿机制的研究](https://blog.csdn.net/bluishglc/article/details/7612811)
 
 ## Outside of technology
 
