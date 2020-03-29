@@ -12,7 +12,7 @@
     - [I/O](#io)
     - [异常](#%e5%bc%82%e5%b8%b8)
     - [单点登录](#%e5%8d%95%e7%82%b9%e7%99%bb%e5%bd%95)
-    - [Lombok](#lombok)
+    - [类加载器](#%e7%b1%bb%e5%8a%a0%e8%bd%bd%e5%99%a8)
   - [JVM](#jvm)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
   - [Spring](#spring)
@@ -84,7 +84,8 @@
 - [八幅漫画理解使用JSON Web Token设计单点登录系统（John Wu）](http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/)
 - [JSON Web Token - 在Web应用间安全地传递信息（John Wu）](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
 
-### Lombok
+### 类加载器
+- [深入探讨 Java 类加载器](https://www.ibm.com/developerworks/cn/java/j-lo-classloader/index.html)
 
 ## JVM
 - [怎样分析 JAVA 的 Thread Dumps](https://segmentfault.com/a/1190000000615690)
