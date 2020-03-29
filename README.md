@@ -164,6 +164,7 @@
 - [前后端同学必会的Linux基础命令](https://www.imooc.com/article/266441)
 - [理解inode（阮一峰）](http://www.ruanyifeng.com/blog/2011/12/inode.html)
 - Linux性能分析工具汇总合集（[原文](http://rdc.hundsun.com/portal/article/731.htm)、[微信](https://mp.weixin.qq.com/s/ALCbjkk29SOoWP_zS_y91A)）
+- [进程间通信IPC (InterProcess Communication)](https://www.jianshu.com/p/c1015f5ffa74)
 
 ### Vim
 - [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/#)
