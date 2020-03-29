@@ -51,6 +51,7 @@
     - [云原生](#%e4%ba%91%e5%8e%9f%e7%94%9f)
   - [微服务](#%e5%be%ae%e6%9c%8d%e5%8a%a1)
   - [分布式系统](#%e5%88%86%e5%b8%83%e5%bc%8f%e7%b3%bb%e7%bb%9f)
+- [Web安全](#web%e5%ae%89%e5%85%a8)
   - [Outside of technology](#outside-of-technology)
 
 ## 计算机基础
@@ -297,6 +298,9 @@
 - [初识分布式系统](http://www.hollischuang.com/archives/655)
 - [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
 - [关于分布式事务、两阶段提交、一阶段提交、Best Efforts 1PC模式和事务补偿机制的研究](https://blog.csdn.net/bluishglc/article/details/7612811)
+
+# Web安全
+- [Web Security（斯坦福大学公开课）](https://web.stanford.edu/class/cs253/)
 
 ## Outside of technology
 
