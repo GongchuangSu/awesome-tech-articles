@@ -86,6 +86,7 @@
 
 ### 类加载器
 - [深入探讨 Java 类加载器](https://www.ibm.com/developerworks/cn/java/j-lo-classloader/index.html)
+- [老大难的 Java ClassLoader 再不理解就老了](https://juejin.im/post/5c04892351882516e70dcc9b)
 
 ## JVM
 - [怎样分析 JAVA 的 Thread Dumps](https://segmentfault.com/a/1190000000615690)
