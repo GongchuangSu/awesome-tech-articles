@@ -49,6 +49,7 @@
   - [System Software](#system-software)
   - [云计算](#%e4%ba%91%e8%ae%a1%e7%ae%97)
     - [云原生](#%e4%ba%91%e5%8e%9f%e7%94%9f)
+    - [k8s](#k8s)
   - [微服务](#%e5%be%ae%e6%9c%8d%e5%8a%a1)
   - [分布式系统](#%e5%88%86%e5%b8%83%e5%bc%8f%e7%b3%bb%e7%bb%9f)
 - [Web安全](#web%e5%ae%89%e5%85%a8)
@@ -294,6 +295,9 @@
     - [第一讲：云原生简介](./云原生/云原生技术公开课/阶段1：云原生技术基础/第一讲：云原生简介.md)
     - [第二讲：容器的基本概念](./云原生/云原生技术公开课/阶段1：云原生技术基础/第二讲：容器的基本概念.md)
     - [第三讲：Kubernetes核心概念](./云原生/云原生技术公开课/阶段1：云原生技术基础/第三讲：Kubernetes核心概念.md)
+
+### k8s
+- [Kubernetes教程](https://www.kuboard.cn/learning/)
 
 ## 微服务
 - [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611?do=login&spm=5176.12901015.0.i12901015.43ea525cSsiTVp)
