@@ -322,3 +322,4 @@
 - [不止代码](https://alitech-private.oss-cn-beijing.aliyuncs.com/1530517140411/Codelife.pdf?Expires=1560959532&OSSAccessKeyId=LTAIqKGWQyF6Vd3W&Signature=gdxO5C6BVwxFFBh9H9Leodk0bLU%3D)[【PDF】](/Others/Codelife.pdf)
 - [How to Use the Feynman Technique to Learn Faster (With Examples)](https://collegeinfogeek.com/feynman-technique/)
 - [阿里工程师的自我修养](./Others/阿里工程师的自我修养.pdf)
+- [毕玄：我在阿里的十年技术感悟](./Others/毕玄：我在阿里的十年技术感悟.pdf)
