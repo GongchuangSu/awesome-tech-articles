@@ -184,6 +184,7 @@
 
 ## Nginx
 - [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
+- [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
 - [什么是负载均衡](https://mp.weixin.qq.com/s/xvozZjmn-CvmQMAEAyDc3w)
 - Nginx配置跨域请求
   - [Nginx配置跨域请求](https://segmentfault.com/a/1190000012550346)
