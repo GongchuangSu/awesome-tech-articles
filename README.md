@@ -73,6 +73,7 @@
 ### 多线程
 - [Java多线程系列--“基础篇”01之 基本概念（wangkuiwu）](http://wangkuiwu.github.io/2012/08/01/threads-basic/)
 - [Java多线程系列--“基础篇”02之 常用的实现多线程的两种方式（wangkuiwu）](http://wangkuiwu.github.io/2012/08/02/threads-basic/)
+- [Java线程池实现原理及其在美团业务中的实践（美团技术团队）](https://zhuanlan.zhihu.com/p/123328822)
 
 ### 集合
 - [Java 8系列之重新认识HashMap](https://zhuanlan.zhihu.com/p/21673805)
