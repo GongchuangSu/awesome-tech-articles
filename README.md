@@ -9,6 +9,7 @@
   - [Java](#java)
     - [并发](#%e5%b9%b6%e5%8f%91)
     - [多线程](#%e5%a4%9a%e7%ba%bf%e7%a8%8b)
+    - [集合](#%e9%9b%86%e5%90%88)
     - [I/O](#io)
     - [异常](#%e5%bc%82%e5%b8%b8)
     - [单点登录](#%e5%8d%95%e7%82%b9%e7%99%bb%e5%bd%95)
@@ -72,6 +73,9 @@
 ### 多线程
 - [Java多线程系列--“基础篇”01之 基本概念（wangkuiwu）](http://wangkuiwu.github.io/2012/08/01/threads-basic/)
 - [Java多线程系列--“基础篇”02之 常用的实现多线程的两种方式（wangkuiwu）](http://wangkuiwu.github.io/2012/08/02/threads-basic/)
+
+### 集合
+- [Java 8系列之重新认识HashMap](https://zhuanlan.zhihu.com/p/21673805)
 
 ### I/O
 - [Java中导入、导出Excel](https://www.cnblogs.com/jerehedu/p/4343509.html)
