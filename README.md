@@ -319,6 +319,7 @@
 - [关于分布式事务、两阶段提交、一阶段提交、Best Efforts 1PC模式和事务补偿机制的研究](https://blog.csdn.net/bluishglc/article/details/7612811)
 - [RocketMQ 4.3 正式发布，支持分布式事务](https://www.infoq.cn/article/2018/08/rocketmq-4.3-release)
 - [XA 事务处理](https://www.infoq.cn/article/xa-transactions-handle)
+- [分布式事务如何实现？深入解读 Seata 的 XA 模式](https://developer.51cto.com/art/202004/615530.htm?mobile)
 
 # Web安全
 - [Web Security（斯坦福大学公开课）](https://web.stanford.edu/class/cs253/)
