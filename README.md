@@ -53,6 +53,7 @@
     - [k8s](#k8s)
   - [微服务](#%e5%be%ae%e6%9c%8d%e5%8a%a1)
   - [分布式系统](#%e5%88%86%e5%b8%83%e5%bc%8f%e7%b3%bb%e7%bb%9f)
+    - [分布式事务](#%e5%88%86%e5%b8%83%e5%bc%8f%e4%ba%8b%e5%8a%a1)
 - [Web安全](#web%e5%ae%89%e5%85%a8)
   - [Outside of technology](#outside-of-technology)
 
@@ -311,8 +312,13 @@
 
 ## 分布式系统
 - [初识分布式系统](http://www.hollischuang.com/archives/655)
+
+### 分布式事务
+
 - [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
 - [关于分布式事务、两阶段提交、一阶段提交、Best Efforts 1PC模式和事务补偿机制的研究](https://blog.csdn.net/bluishglc/article/details/7612811)
+- [RocketMQ 4.3 正式发布，支持分布式事务](https://www.infoq.cn/article/2018/08/rocketmq-4.3-release)
+- [XA 事务处理](https://www.infoq.cn/article/xa-transactions-handle)
 
 # Web安全
 - [Web Security（斯坦福大学公开课）](https://web.stanford.edu/class/cs253/)
