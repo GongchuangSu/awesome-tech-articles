@@ -315,7 +315,7 @@
 
 ### 分布式事务
 
-- [聊聊分布式事务，再说说解决方案](https://www.cnblogs.com/savorboard/p/distributed-system-transaction-consistency.html)
+- [聊聊分布式事务，再说说解决方案](./JAVA/Microservice/聊聊分布式事务，再说说解决方案.pdf)
 - [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
 - [关于分布式事务、两阶段提交、一阶段提交、Best Efforts 1PC模式和事务补偿机制的研究](https://blog.csdn.net/bluishglc/article/details/7612811)
 - [RocketMQ 4.3 正式发布，支持分布式事务](https://www.infoq.cn/article/2018/08/rocketmq-4.3-release)
