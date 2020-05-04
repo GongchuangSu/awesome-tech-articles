@@ -271,6 +271,7 @@
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 - [DNS 原理入门（阮一峰）](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 - [虚拟机网络配置详解(NAT、桥接、Hostonly)](https://www.jianshu.com/p/305f7384cfe9)
+- [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 
 ### WebSocket
 - [WebSocket 教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
