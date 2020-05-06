@@ -144,11 +144,13 @@
 - [深入分析事务的隔离级别](http://www.hollischuang.com/archives/943)
 - [数据库事务隔离级别和锁实现机制](https://www.iteye.com/blog/comedsh-698733)
 - [MySQL中的行级锁,表级锁,页级锁](http://www.hollischuang.com/archives/914)
+- [深入理解乐观锁与悲观锁](http://www.hollischuang.com/archives/934)
 - [MySQL表级锁与行级锁](http://linux.it.net.cn/m/view.php?aid=11089)
 - [Spring的事务管理机制](http://www.hollischuang.com/archives/1489)
 - [JTA 深度历险 - 原理与实现](https://www.ibm.com/developerworks/cn/java/j-lo-jta/)
 - [Java中的事务——JDBC事务和JTA事务](http://www.hollischuang.com/archives/1658)
 - [事务隔离](https://zh.wikipedia.org/wiki/%E4%BA%8B%E5%8B%99%E9%9A%94%E9%9B%A2)
+- [事务已提交，数据却丢了，赶紧检查下这个配置！！！](./Database/Mysql/事务已提交，数据却丢了，赶紧检查下这个配置！！！.pdf)
 
 ### Hibernate
 - [深入理解hibernate的三种状态](http://www.cnblogs.com/xiaoluo501395377/p/3380270.html)
