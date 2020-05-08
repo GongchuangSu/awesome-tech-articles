@@ -96,6 +96,7 @@
 - [老大难的 Java ClassLoader 再不理解就老了](https://juejin.im/post/5c04892351882516e70dcc9b)
 
 ## JVM
+- [JDK监控和故障处理工具总结](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/jvm/JDK%E7%9B%91%E6%8E%A7%E5%92%8C%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E6%80%BB%E7%BB%93.md)
 - [怎样分析 JAVA 的 Thread Dumps](https://segmentfault.com/a/1190000000615690)
 - [使用 VisualVM 进行性能分析及调优](https://www.ibm.com/developerworks/cn/java/j-lo-visualvm/)
 - [如何使用jstack分析线程状态](http://www.importnew.com/23601.html)
