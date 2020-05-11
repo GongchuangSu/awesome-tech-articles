@@ -76,6 +76,7 @@
 - [Java多线程系列--“基础篇”02之 常用的实现多线程的两种方式（wangkuiwu）](http://wangkuiwu.github.io/2012/08/02/threads-basic/)
 - [Java线程池实现原理及其在美团业务中的实践（美团技术团队）](https://zhuanlan.zhihu.com/p/123328822)
 - [深入理解 Java 之 ThreadLocal 工作原理](https://allenwu.itscoder.com/threadlocal-source)
+- [ThreadLocal造成OOM内存溢出案例演示与原理分析](https://blog.csdn.net/xlgen157387/article/details/78298840)
 
 ### 集合
 - [Java 8系列之重新认识HashMap](https://zhuanlan.zhihu.com/p/21673805)
