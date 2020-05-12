@@ -280,6 +280,7 @@
 - [DNS 原理入门（阮一峰）](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 - [虚拟机网络配置详解(NAT、桥接、Hostonly)](https://www.jianshu.com/p/305f7384cfe9)
 - [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
+- [服务器TIME_WAIT和CLOSE_WAIT区别及解决方案](https://blog.csdn.net/kobejayandy/article/details/46641791)
 - [面试 HTTP ，99% 的面试官都爱问这些问题](./Network%20Protocol/面试%20HTTP%20，99%%20的面试官都爱问这些问题.pdf)
 
 ### WebSocket
