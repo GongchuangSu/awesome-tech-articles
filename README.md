@@ -167,6 +167,7 @@
 - [MySQL 性能优化技巧（月光中的污点）](https://www.extlight.com/2017/10/07/MySQL-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/)[【PDF】](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Database/Mysql/MySQL%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7.pdf)
 - [MySQL 实现主从复制（月光中的污点）](https://www.extlight.com/2018/03/12/MySQL-%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/)[【PDF】](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Database/Mysql/MySQL%20%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.pdf)
 - [为什么阿里巴巴禁止使用 count(列名)或 count(常量)来替代 count(*)](./Database/Mysql/为什么阿里巴巴禁止使用%20count(列名)或%20count(常量)来替代%20count(*).pdf)
+- [MySQL索引原理及慢查询优化](https://tech.meituan.com/2014/06/30/mysql-index.html)
 
 ### QueryDSL
 - [QueryDSL 与 JPA 的配合（屈定）](https://zhuanlan.zhihu.com/p/24778422?refer=dreawer)
