@@ -69,6 +69,7 @@
 
 ### 并发
 - [Java理论与实践：正确使用Volatile变量](https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
+- [Java多线程之延迟初始化](./JAVA/Concurrency/Java多线程之延迟初始化.pdf)
 - [还在疑惑并发和并行？（laike9m）](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
 
 ### 多线程
