@@ -157,6 +157,7 @@
 - [事务隔离](https://zh.wikipedia.org/wiki/%E4%BA%8B%E5%8B%99%E9%9A%94%E9%9B%A2)
 - [事务已提交，数据却丢了，赶紧检查下这个配置！！！](./Database/Mysql/事务已提交，数据却丢了，赶紧检查下这个配置！！！.pdf)
 - [Mysql慢查询日志](https://github.com/GongchuangSu/Blog/blob/master/Mysql%26Oracle/Mysql%E6%85%A2%E6%9F%A5%E8%AF%A2%E6%97%A5%E5%BF%97.md)
+- [如何选择分布式事务解决方案？](https://mp.weixin.qq.com/s/2AL3uJ5BG2X3Y2Vxg0XqnQ)
 
 ### Hibernate
 - [深入理解hibernate的三种状态](http://www.cnblogs.com/xiaoluo501395377/p/3380270.html)
