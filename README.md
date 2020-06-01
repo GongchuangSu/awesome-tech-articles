@@ -272,7 +272,6 @@
 - [网络是怎样连接的（[日]户根勤）](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Network%20Protocol/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)
 - [互联网协议入门（一）（阮一峰）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 - [互联网协议入门（二）（阮一峰）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
-- [理解OAuth 2.0（阮一峰）](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 - [HTTPS协议图解](https://tls.ulfheim.net/)
 - [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
 - [DHCP 协议如何工作](https://www.benburwell.com/posts/how-does-dhcp-work/)
@@ -286,6 +285,11 @@
 - [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 - [服务器TIME_WAIT和CLOSE_WAIT区别及解决方案](https://blog.csdn.net/kobejayandy/article/details/46641791)
 - [面试 HTTP ，99% 的面试官都爱问这些问题](./Network%20Protocol/面试%20HTTP%20，99%%20的面试官都爱问这些问题.pdf)
+
+### OAuth
+- [理解OAuth 2.0（阮一峰）](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+- [OAuth 2.0 的一个简单解释（阮一峰）](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
+- [OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.htmlx)
 
 ### WebSocket
 - [WebSocket 教程（阮一峰）](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
