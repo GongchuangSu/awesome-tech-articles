@@ -287,6 +287,7 @@
 - [面试 HTTP ，99% 的面试官都爱问这些问题](./Network%20Protocol/面试%20HTTP%20，99%%20的面试官都爱问这些问题.pdf)
 
 ### OAuth2
+- [The OAuth 2.0 Authorization Framework](./JAVA/Microservice/The%20OAuth%202.0%20Authorization%20Framework.pdf)
 - [理解OAuth 2.0（阮一峰）](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 - [OAuth 2.0 的一个简单解释（阮一峰）](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
 - [OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.htmlx)
