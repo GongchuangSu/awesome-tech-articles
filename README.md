@@ -68,6 +68,9 @@
 - [从代码处理等方面解读阿里巴巴 Java 代码规范](https://www.ibm.com/developerworks/cn/java/deconding-code-specification-part-2/index.html)
 - [Java 编程要点之并发（Concurrency）详解](https://waylau.com/essential-java-concurrency/#)
 
+### 基础知识
+- [字符和字符串](https://www.liaoxuefeng.com/wiki/1252599548343744/1255938912141568)
+
 ### 并发
 - [Java理论与实践：正确使用Volatile变量](https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
 - [Java多线程之延迟初始化](./JAVA/Concurrency/Java多线程之延迟初始化.pdf)
