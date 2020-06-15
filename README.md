@@ -16,6 +16,7 @@
     - [类加载器](#%e7%b1%bb%e5%8a%a0%e8%bd%bd%e5%99%a8)
   - [JVM](#jvm)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
+  - [Lucene](#lucene)
   - [Spring](#spring)
     - [经典书籍](#%e7%bb%8f%e5%85%b8%e4%b9%a6%e7%b1%8d)
   - [Database](#database)
@@ -133,6 +134,10 @@
 - [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+
+## Lucene
+
+- [Spring Boot 中使用 Java API 调用 Lucene](https://segmentfault.com/a/1190000011916639)
 
 ## Spring
 - [Spring-aop 全面解析（从应用到原理）](https://juejin.im/post/591d8c8ba22b9d00585007dd)
