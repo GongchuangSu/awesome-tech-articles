@@ -55,7 +55,8 @@
   - [微服务](#%e5%be%ae%e6%9c%8d%e5%8a%a1)
   - [分布式系统](#%e5%88%86%e5%b8%83%e5%bc%8f%e7%b3%bb%e7%bb%9f)
     - [分布式事务](#%e5%88%86%e5%b8%83%e5%bc%8f%e4%ba%8b%e5%8a%a1)
-- [Web安全](#web%e5%ae%89%e5%85%a8)
+  - [Web安全](#web%e5%ae%89%e5%85%a8)
+  - [系统架构](#系统架构)
   - [Outside of technology](#outside-of-technology)
 
 ## 计算机基础
@@ -353,8 +354,12 @@
 - [XA 事务处理](https://www.infoq.cn/article/xa-transactions-handle)
 - [分布式事务如何实现？深入解读 Seata 的 XA 模式](https://developer.51cto.com/art/202004/615530.htm?mobile)
 
-# Web安全
+## Web安全
 - [Web Security（斯坦福大学公开课）](https://web.stanford.edu/class/cs253/)
+
+## 系统架构
+
+- [网站架构](https://www.yuque.com/docs/share/077f7c11-876f-46fe-8d2a-95dc9165b63d)
 
 ## Outside of technology
 
