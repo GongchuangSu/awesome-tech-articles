@@ -77,6 +77,7 @@
 - [Java理论与实践：正确使用Volatile变量](https://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
 - [Java多线程之延迟初始化](./JAVA/Concurrency/Java多线程之延迟初始化.pdf)
 - [还在疑惑并发和并行？（laike9m）](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
+- [深入分析synchronized的实现原理](http://cmsblogs.com/?p=2071&vip=1)
 
 ### 多线程
 - [Java多线程系列--“基础篇”01之 基本概念（wangkuiwu）](http://wangkuiwu.github.io/2012/08/01/threads-basic/)
