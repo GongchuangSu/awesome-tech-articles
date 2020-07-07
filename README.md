@@ -136,6 +136,7 @@
 - [RSA算法原理（二）](http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html)
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+- [Redis内部数据结构详解(6)——skiplist](./Data_Structures_And_Algorithms/Redis内部数据结构详解(6)——skiplist.pdf)
 
 ## Lucene
 
