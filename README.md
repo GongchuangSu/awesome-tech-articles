@@ -16,6 +16,7 @@
     - [类加载器](#%e7%b1%bb%e5%8a%a0%e8%bd%bd%e5%99%a8)
   - [JVM](#jvm)
   - [Data Structures and Algorithms](#data-structures-and-algorithms)
+    - [哈希算法](#哈希算法)
   - [Lucene](#lucene)
   - [Spring](#spring)
     - [经典书籍](#%e7%bb%8f%e5%85%b8%e4%b9%a6%e7%b1%8d)
@@ -137,6 +138,9 @@
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 - [Redis内部数据结构详解(6)——skiplist](./Data_Structures_And_Algorithms/Redis内部数据结构详解(6)——skiplist.pdf)
+
+### 哈希算法
+- [白话解析：一致性哈希算法](./Data_Structures_And_Algorithms/白话解析：一致性哈希算法.pdf)
 
 ## Lucene
 
