@@ -161,6 +161,7 @@
 
 ## Database
 - [SQL与索引优化合集（58沈剑）](https://mp.weixin.qq.com/s/3xkLTe7r388lRq-SBQllXw)
+- [常用数据库连接池 (DBCP、c3p0、Druid) 配置说明](./Database/Mysql/常用数据库连接池%20(DBCP、c3p0、Druid)%20配置说明.pdf)
 
 ### 数据库事务
 - [数据库的读现象浅析](http://www.hollischuang.com/archives/900)
