@@ -371,6 +371,7 @@
 ### Lucene
 
 - [Lucene5学习之Suggest关键字提示](https://www.iteye.com/blog/iamyida-2205114)
+- [Lucene5学习之拼音搜索](https://www.iteye.com/blog/iamyida-2207080)
 
 ## 系统架构
 
