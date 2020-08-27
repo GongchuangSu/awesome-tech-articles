@@ -145,6 +145,10 @@
 ### 哈希算法
 - [白话解析：一致性哈希算法](./Data_Structures_And_Algorithms/白话解析：一致性哈希算法.pdf)
 
+### 红黑树
+- [教你透彻了解红黑树](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/03.01.md)
+  - [Left-Leaning Red-Black Trees](https://www.cs.princeton.edu/~rs/talks/LLRB/RedBlack.pdf) 
+
 ## Lucene
 
 - [Spring Boot 中使用 Java API 调用 Lucene](https://segmentfault.com/a/1190000011916639)
