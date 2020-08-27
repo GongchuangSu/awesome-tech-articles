@@ -91,6 +91,7 @@
 
 ### 集合
 - [Java 8系列之重新认识HashMap](https://zhuanlan.zhihu.com/p/21673805)
+  - [为什么可以使用位运算(&)来实现取模运算(%)](https://blog.csdn.net/xindaxinda123/article/details/95617758)
 
 ### I/O
 - [Java中导入、导出Excel](https://www.cnblogs.com/jerehedu/p/4343509.html)
