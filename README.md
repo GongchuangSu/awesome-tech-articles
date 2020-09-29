@@ -363,6 +363,7 @@
 
 ### k8s
 - [Kubernetes教程](https://www.kuboard.cn/learning/)
+- [Kubernetes中文文档](http://docs.kubernetes.org.cn/)
 
 ## 微服务
 - [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611?do=login&spm=5176.12901015.0.i12901015.43ea525cSsiTVp)
