@@ -141,6 +141,9 @@
 - [Spring Boot中logback配置详解](https://developer.aliyun.com/article/691489)
 - [logback配置参数详解](http://logback.qos.ch/manual/layouts.html#ClassicPatternLayout)
 
+### Log4j
+- [Log4j配置参数详解](https://logging.apache.org/log4j/2.x/manual/layouts.html)
+
 ## Data Structures and Algorithms
 - [数据结构和算法动态可视化](https://visualgo.net/zh)
 - [Design patterns implemented in Java](https://java-design-patterns.com/)
