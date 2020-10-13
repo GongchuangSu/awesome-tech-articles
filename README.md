@@ -7,6 +7,8 @@
 - [Content](#content)
   - [计算机基础](#%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%9f%ba%e7%a1%80)
   - [Java](#java)
+    - [基础知识](#基础知识)
+      - [动态字节码](#动态字节码)
     - [并发](#%e5%b9%b6%e5%8f%91)
     - [多线程](#%e5%a4%9a%e7%ba%bf%e7%a8%8b)
     - [集合](#%e9%9b%86%e5%90%88)
@@ -76,6 +78,9 @@
 
 ### 基础知识
 - [字符和字符串](https://www.liaoxuefeng.com/wiki/1252599548343744/1255938912141568)
+
+#### 字节码
+- [Javassist官方教程](http://www.javassist.org/tutorial/tutorial.html)
 
 ### 并发
 - [Java中volatile关键字实现原理](https://www.cnblogs.com/xrq730/p/7048693.html)
@@ -179,6 +184,7 @@
 ## Database
 - [SQL与索引优化合集（58沈剑）](https://mp.weixin.qq.com/s/3xkLTe7r388lRq-SBQllXw)
 - [常用数据库连接池 (DBCP、c3p0、Druid) 配置说明](./Database/Mysql/常用数据库连接池%20(DBCP、c3p0、Druid)%20配置说明.pdf)
+- [主流Java数据库连接池比较及前瞻](https://mp.weixin.qq.com/s/aBeX307FI6vnw_DatqjC0g)
 
 ### 数据库事务
 - [数据库的读现象浅析](http://www.hollischuang.com/archives/900)
