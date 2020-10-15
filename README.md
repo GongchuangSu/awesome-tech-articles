@@ -273,6 +273,10 @@
 - [Kafka中文文档](http://kafka.apachecn.org/)
 - [Kafka快速入门](https://colobu.com/2014/08/06/kafka-quickstart/)
 
+#### Kafka监控
+- [Kafka Eagle](https://www.kafka-eagle.org/)
+- [Monitoring Apache Kafka with Grafana / InfluxDB via JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
+
 ## Netty
 
 ## Ehcache
