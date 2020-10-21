@@ -63,6 +63,7 @@
   - [NLP](#nlp)
   - [系统设计](#系统设计)
   - [系统架构](#系统架构)
+  - [Blog](#blog)
   - [Outside of technology](#outside-of-technology)
 
 ## 计算机基础
@@ -404,6 +405,10 @@
 ## 系统架构
 
 - [网站架构](https://www.yuque.com/docs/share/077f7c11-876f-46fe-8d2a-95dc9165b63d)
+
+## Blog
+
+- [用 Travis 来自动更新博客](http://blog.devtang.com/2020/02/08/update-blog-with-travis/)
 
 ## Outside of technology
 
