@@ -158,6 +158,7 @@
 - [Data Structures Reference](https://www.interviewcake.com/data-structures-reference)
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 - [Redis内部数据结构详解(6)——skiplist](./Data_Structures_And_Algorithms/Redis内部数据结构详解(6)——skiplist.pdf)
+- [AES加密算法的详细介绍与实现](https://blog.csdn.net/qq_28205153/article/details/55798628)
 
 ### 哈希算法
 - [白话解析：一致性哈希算法](./Data_Structures_And_Algorithms/白话解析：一致性哈希算法.pdf)
