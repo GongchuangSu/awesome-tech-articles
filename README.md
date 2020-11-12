@@ -123,6 +123,7 @@
 - [JVM垃圾回收与调优详解](./JAVA/JVM/JVM垃圾回收与调优详解.pdf)
 - [JDK监控和故障处理工具总结](https://github.com/Snailclimb/JavaGuide/blob/master/docs/java/jvm/JDK%E7%9B%91%E6%8E%A7%E5%92%8C%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E6%80%BB%E7%BB%93.md)
 - [怎样分析 JAVA 的 Thread Dumps](https://segmentfault.com/a/1190000000615690)
+- [Five tricks to analyze Java thread dumps](https://www.jahia.com/blog/five-tricks-to-analyze-java-thread-dumps)
 - [使用 VisualVM 进行性能分析及调优](https://www.ibm.com/developerworks/cn/java/j-lo-visualvm/)
 - [如何使用jstack分析线程状态](http://www.importnew.com/23601.html)
 - [如何利用 JConsole观察分析Java程序的运行，进行排错调优](http://jiajun.iteye.com/blog/810150)
