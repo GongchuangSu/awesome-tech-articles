@@ -174,7 +174,7 @@
 
 ## Spring
 - [Spring-aop 全面解析（从应用到原理）](https://juejin.im/post/591d8c8ba22b9d00585007dd)
-- [IoC-spring 的灵魂](https://juejin.im/post/591d8c8ba22b9d00585007dd)
+- [谈谈对Spring IOC的理解](https://www.cnblogs.com/xdp-gacl/p/4249939.html)
 - [中小型互联网公司微服务实践](http://www.ityouknow.com/springcloud/2017/10/19/micro-service-practice.html)
 - [Spring中获取request的几种方法，及其线程安全性分析](https://www.cnblogs.com/kismetv/p/8757260.html)
 - [Spring Interceptor vs Filter 拦截器和过滤器区别](http://einverne.github.io/post/2017/08/spring-interceptor-vs-filter.html)
