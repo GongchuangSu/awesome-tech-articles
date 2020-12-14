@@ -247,6 +247,9 @@
 - [Linux bash总结(一) 基础部分（wangkuiwu）](http://wangkuiwu.github.io/2011/09/01/shell/)
 - [Linux bash总结(二) 高级部分（wangkuiwu）](http://wangkuiwu.github.io/2011/09/02/shell/)
 
+### SSH
+- [SSH入门教程（阮一峰）](https://wangdoc.com/ssh/index.html)
+
 ## Nginx
 - [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 - [Nginx 极简教程](https://github.com/dunwu/nginx-tutorial)
