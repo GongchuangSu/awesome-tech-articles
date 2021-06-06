@@ -86,6 +86,7 @@
 
 ### 并发
 - [Java中volatile关键字实现原理](https://www.cnblogs.com/xrq730/p/7048693.html)
+- [详解volatile实现原理](https://mp.weixin.qq.com/s/O9NgZGMCCPE-Opmw2KmZxg)
 - [Java多线程之延迟初始化](./JAVA/Concurrency/Java多线程之延迟初始化.pdf)
 - [还在疑惑并发和并行？（laike9m）](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
 - [深入分析synchronized的实现原理](http://cmsblogs.com/?p=2071&vip=1)
