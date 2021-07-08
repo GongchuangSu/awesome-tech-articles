@@ -176,7 +176,7 @@
 
 ## Spring
 - [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
-- [Spring-aop 全面解析（从应用到原理）](https://juejin.im/post/591d8c8ba22b9d00585007dd)
+- [Spring AOP 扫盲](https://www.cnblogs.com/cxuanBlog/p/13060510.html)
 - [控制反转（IoC）与依赖注入（DI）](https://blog.xiaohansong.com/IoC-and-DI.html)
 - [IOC/DIP其实是一种管理思想](https://coolshell.cn/articles/9949.html)
 - [谈谈对Spring IOC的理解](https://www.cnblogs.com/xdp-gacl/p/4249939.html)
