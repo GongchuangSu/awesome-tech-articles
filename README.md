@@ -84,6 +84,9 @@
 #### 字节码
 - [Javassist官方教程](http://www.javassist.org/tutorial/tutorial.html)
 
+### 反射机制和代理模式
+- [Java的动态代理及其实现原理](https://tangyibo.github.io/java/2020/02/26/how-to-use-dynamic-proxy-using-in-java/)
+
 ### 并发
 - [Java中volatile关键字实现原理](https://www.cnblogs.com/xrq730/p/7048693.html)
 - [详解volatile实现原理](https://mp.weixin.qq.com/s/O9NgZGMCCPE-Opmw2KmZxg)
