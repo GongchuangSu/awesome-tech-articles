@@ -46,6 +46,7 @@
     - [Javascript](#javascript)
     - [Jquery](#jquery)
     - [Web application](#web-application)
+    - [Web security](#web-security)
   - [Network Protocol](#network-protocol)
     - [WebSocket](#websocket)
   - [Regular Expression](#regular-expression)
@@ -200,7 +201,7 @@
 
 ### 数据库事务
 - [数据库的读现象浅析](http://www.hollischuang.com/archives/900)
-- [深入分析事务的隔离级别](http://www.hollischuang.com/archives/943)
+- [深入分析事务的隔离级别](https://zh.wikipedia.org/wiki/%E4%BA%8B%E5%8B%99%E9%9A%94%E9%9B%A2)
 - [数据库事务隔离级别和锁实现机制](https://www.iteye.com/blog/comedsh-698733)
 - [MySQL中的行级锁,表级锁,页级锁](http://www.hollischuang.com/archives/914)
 - [深入理解乐观锁与悲观锁](http://www.hollischuang.com/archives/934)
@@ -309,6 +310,7 @@
 
 ## Front-End
 - [Web 前端开发入门手册（前端九部）](https://www.yuque.com/fe9/basic)
+
 ### Javascript
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes)
 - [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
@@ -332,6 +334,10 @@
 - [Web应用的组件化（二）——管控平台（民工精髓V）](https://github.com/xufei/blog/issues/7)
 - [一种SPA（单页面应用）架构（livoras）](https://github.com/livoras/blog/issues/3)
 
+### Web security
+
+- [前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
+
 ## Network Protocol
 - [网络是怎样连接的（[日]户根勤）](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Network%20Protocol/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)
 - [互联网协议入门（一）（阮一峰）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
@@ -349,6 +355,7 @@
 - [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 - [服务器TIME_WAIT和CLOSE_WAIT区别及解决方案](https://blog.csdn.net/kobejayandy/article/details/46641791)
 - [面试 HTTP ，99% 的面试官都爱问这些问题](./Network%20Protocol/面试%20HTTP%20，99%%20的面试官都爱问这些问题.pdf)
+- [HTTP Referer 教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)
 
 ### OAuth2
 - [The OAuth 2.0 Authorization Framework](./JAVA/Microservice/The%20OAuth%202.0%20Authorization%20Framework.pdf)
