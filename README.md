@@ -225,6 +225,7 @@
 - [MySQL 实现主从复制（月光中的污点）](https://www.extlight.com/2018/03/12/MySQL-%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/)[【PDF】](https://github.com/GongchuangSu/awesome-tech-articles/blob/master/Database/Mysql/MySQL%20%E5%AE%9E%E7%8E%B0%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.pdf)
 - [为什么阿里巴巴禁止使用 count(列名)或 count(常量)来替代 count(*)](./Database/Mysql/为什么阿里巴巴禁止使用%20count(列名)或%20count(常量)来替代%20count(*).pdf)
 - [MySQL索引原理及慢查询优化](https://tech.meituan.com/2014/06/30/mysql-index.html)
+- [MySQL索引优化](https://zhuanlan.zhihu.com/p/61687047)
 
 ### QueryDSL
 - [QueryDSL 与 JPA 的配合（屈定）](https://zhuanlan.zhihu.com/p/24778422?refer=dreawer)
